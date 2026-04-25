@@ -96,11 +96,32 @@ I'm a student developer with a passion for building things on Android, making vi
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 🐙 GitHub | [@BillColector1](https://github.com/BillColector1) |
+| 📘 Facebook | [soulfx.06](https://www.facebook.com/soulfx.06) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-BillColector1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BillColector1)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-soulfx.06-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/soulfx.06)
+
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/BillColector1">
-    <img src="https://img.shields.io/badge/GitHub-BillColector1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/github/followers/BillColector1?label=Follow%20on%20GitHub&style=social" />
   </a>
 </div>
 
@@ -109,7 +130,13 @@ I'm a student developer with a passion for building things on Android, making vi
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BillColector1&style=flat-square&color=f0883e&label=Profile+Views" alt="profile views" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
   <br/>
-  <sub>Made with lots of vibes ✨ by Luna_</sub>
+  <sub>Made with lots of vibes ✨ by Luna_ &nbsp;|&nbsp; <a href="https://www.facebook.com/soulfx.06">fb/soulfx.06</a></sub>
 </div>
